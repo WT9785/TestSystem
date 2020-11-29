@@ -18,6 +18,5 @@
 <h4>你对了:${rightCount }题</h4>
 <h4>你的得分是:${score }</h4>
 
-
 </body>
 </html>
